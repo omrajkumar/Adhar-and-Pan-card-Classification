@@ -1,2 +1,2 @@
 # Adhar-and-Pan-card-Classification
-The aims is to classify the input image is adhar card image or pancard image.
+The projects aims is to classify the input image is adhar card image or pancard image. using python and cnn.
